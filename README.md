@@ -20,3 +20,10 @@ I enjoy watching comedies because they help me relax and get a good laugh in.
 - [Home Alone](https://en.wikipedia.org/wiki/Home_Alone)
 - [Napoleon Dynamite](https://en.wikipedia.org/wiki/Napoleon_Dynamite)
 - [Zombieland](https://en.wikipedia.org/wiki/Zombieland)
+
+### Navigation
+- [Home Page](https://noahkirsch20.github.io/FinalProject/)
+- [College Football](https://noahkirsch20.github.io/College-Football/)
+- [Travel](https://noahkirsch20.github.io/States/)
+- [Gaming](https://noahkirsch20.github.io/Gaming/)
+- [Outdoors](https://noahkirsch20.github.io/Outdoor/)
